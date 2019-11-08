@@ -1,0 +1,7 @@
+https://raspberrypihq.com/making-a-led-blink-using-the-raspberry-pi-and-python/
+
+https://raspberrypihq.com/use-a-push-button-with-raspberry-pi-gpio/
+
+https://www.hackster.io/hardikrathod/push-button-with-raspberry-pi-6b6928
+
+https://www.raspberrypi-spy.co.uk/2017/09/dht11-temperature-and-humidity-sensor-raspberry-pi/
